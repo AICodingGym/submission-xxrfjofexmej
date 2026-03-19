@@ -96,3 +96,4 @@ local clone from your terminal::
 If you are using a GUI to manage your repos you'll have to find the equivalent
 commands as it's different for different programs. Alternatively, you can just
 delete your local clone and re-clone!
+# test change
